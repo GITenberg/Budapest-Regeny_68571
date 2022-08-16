@@ -1,0 +1,31 @@
+_repo: Budapest-Regeny_68571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kóbor, Tamás
+    alias: Kobor, Tamas
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '41508'
+    url: http://www.gutenberg.org/2009/agents/41508
+    wikipedia: https://hu.wikipedia.org/wiki/K%C3%B3bor_Tam%C3%A1s_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2022-07-20'
+identifiers:
+  gutenberg: '68571'
+language: hu
+pgterms:marc905: 20220705133007kbor
+pgterms:marc906: '1919'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Franklin-Társulat,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+title: 'Budapest: Regény'
+url: http://www.gutenberg.org/ebooks/68571
